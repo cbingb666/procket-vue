@@ -1,0 +1,24 @@
+{
+  "name": "@procket-vue/filters",
+  "version": "0.0.0",
+  "description": "filters",
+  "keywords": [],
+  "author": "cbingb666 <cbingb666@163.com>",
+  "license": "ISC",
+  "main": "lib/filters.cjs.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "module": "lib/filters.esm.js",
+  "browser": "lib/filters.umd.js"
+}
