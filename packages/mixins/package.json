@@ -20,5 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "module": "lib/mixins.esm.js",
-  "browser": "lib/mixins.umd.js"
+  "browser": "lib/mixins.umd.js",
+  "gitHead": "8fdb02085b256fb9a8c7ab284dde802e5641acaa"
 }

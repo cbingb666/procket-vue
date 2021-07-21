@@ -20,5 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "module": "lib/filters.esm.js",
-  "browser": "lib/filters.umd.js"
+  "browser": "lib/filters.umd.js",
+  "gitHead": "8fdb02085b256fb9a8c7ab284dde802e5641acaa"
 }
